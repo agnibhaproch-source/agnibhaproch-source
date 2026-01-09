@@ -1,3 +1,4 @@
+<div align ="center">
 # 💫 About Me:
 Building strong foundations in C++, DSA, and beginner-level software projects.<br><br>Beginner-friendly open-source projects and college tech initiatives.<br><br>Improving problem-solving skills and understanding real-world software development.<br><br>Data Structures & Algorithms, C++, Git, and core software engineering concepts.<br><br>C++, basic DSA problems, and my journey at Kalvium as a software engineering student.<br><br>: I enjoy turning simple logic into working code and learning something new every day 🚀
 
@@ -25,3 +26,4 @@ Building strong foundations in C++, DSA, and beginner-level software projects.<b
 [![](https://visitcount.itsvg.in/api?id=agnibhaproch-source&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
